@@ -3,7 +3,11 @@ var marked = require('marked')
 var { exec, execSync } = require('child_process')
 var public = `${__dirname}/public`
 var source = `${__dirname}/source`
+function rsyncStatic(){
+    exec('rsync -a --exclude _posts/ --exclude _templates/ source/ public/')
+}
 
+rsyncStatic()
 
 var junk = fs.readdirSync(`${source}/blog`).forEach(htmlpost)
 
