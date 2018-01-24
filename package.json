@@ -6,11 +6,10 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
-    "http-server": "^0.11.1",
     "marked": "^0.3.12"
   },
   "scripts": {
-    "start": "node index.js --watch & cd public && hs",
+    "start": "node index.js && forever server.js",
     "gitup": "git-go update"
   }
 }
