@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="51.821426mm"
+   height="45.921467mm"
+   viewBox="0 0 20.728571 18.368587"
+   version="1.1"
+   id="svg13169"
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="555_timer_pic3.svg">
+  <defs
+     id="defs13163" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="28.106428"
+     inkscape:cy="100.22103"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     scale-x="0.4"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13166">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.528575,-46.099932)">
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17099">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 89190,42770 -200,-280"
+         id="path17093" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88840,42770 v -600 h 230 l 60,30 30,30 30,60 v 80 l -30,60 -30,30 -60,30 h -230"
+         id="path17095" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 84790,43610 -30,30 -90,30 h -60 l -80,-30 -60,-50 -30,-60 -30,-120 v -80 l 30,-120 30,-50 60,-60 80,-30 h 60 l 90,30 30,30"
+         id="path17097" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17109">
+      <polyline
+         fill="none;"
+         points="87200,39200 87700,39700 "
+         id="polyline17105" />
+      <polyline
+         fill="none;"
+         points="88700,40700 88700,39200 87200,39200 87700,38700 "
+         id="polyline17107" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17117">
+      <polyline
+         fill="none;"
+         points="84300,44200 84300,45800 "
+         id="polyline17113" />
+      <polyline
+         fill="none;"
+         points="84900,44200 84900,45800 "
+         id="polyline17115" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17123">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 85000,45000 h 1100"
+         id="path17119" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 84200,45000 H 83100"
+         id="path17121" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17129">
+      <rect
+         x="87700"
+         y="41500"
+         width="800"
+         height="2000"
+         rx="0"
+         id="rect17127" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17135">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88100,41500 v -500"
+         id="path17131" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88100,43500 v 500"
+         id="path17133" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17155">
+      <circle
+         cx="83800"
+         cy="40000"
+         r="200"
+         id="circle17139" />
+      <circle
+         cx="85400"
+         cy="40000"
+         r="200"
+         id="circle17141" />
+      <polyline
+         fill="none;"
+         points="84000,39900 85200,39300 "
+         id="polyline17143" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 83600,40000 H 82600"
+         id="path17145" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 85600,40000 h 1000"
+         id="path17151" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17171">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 81100,40000 v 5000"
+         id="path17157" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 81100,40000 h 1500"
+         id="path17159" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 86600,40000 h 1500"
+         id="path17161" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88100,40000 v 1000"
+         id="path17163" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88100,44000 v 1000"
+         id="path17165" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 88100,45000 H 86100"
+         id="path17167" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 81100,45000 h 2000"
+         id="path17169" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-166.38814,-52.121098)"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g17185">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 85340,45640 h 460"
+         id="path17173" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 85570,45870 v -460"
+         id="path17175" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 83340,45640 h 460"
+         id="path17177" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88740,43540 h 460"
+         id="path17179" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88970,43770 v -460"
+         id="path17181" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 88740,41440 h 460"
+         id="path17183" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.74789417px;line-height:1.25;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32773009"
+       x="55.296249"
+       y="52.149731"
+       id="text4994"
+       transform="scale(1.0730741,0.93190209)"><tspan
+         sodipodi:role="line"
+         id="tspan4992"
+         x="55.296249"
+         y="52.149731"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';stroke-width:0.32773009">I</tspan></text>
+  </g>
+</svg>
