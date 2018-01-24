@@ -4,7 +4,7 @@ var { exec, execSync } = require('child_process')
 var public = `${__dirname}/public`
 var source = `${__dirname}/source`
 function rsyncStatic(){
-    exec('rsync -a --exclude blog/ source/ public/')
+    exec('rsync -a -r --exclude blog/ source/ public/')
 }
 
 rsyncStatic()
