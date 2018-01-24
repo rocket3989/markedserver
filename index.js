@@ -19,3 +19,4 @@ function htmlpost(path){
     if (!fs.existsSync(dir)) execSync(`mkdir -p ${dir}`)
     fs.writeFileSync(`${dir}/index.html`, `<html>${html}</html>`)
 }
+console.log("done building")
