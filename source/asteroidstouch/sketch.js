@@ -1,5 +1,4 @@
 var ship;
-var ufo;
 var bullets = [];
 var asteroids = [];
 var state = "start";
@@ -8,10 +7,10 @@ var score = 0;
 var lives = 5;
 var alive = true;
 var dead = false;
-var ufo_bul = true;
-var ship_bul = false;
 var last_beep = 0;
 var playing = 0;
+var buttons = [];
+button_press = 0;
 var interval = 50;
 
 function preload(){
@@ -31,7 +30,12 @@ function preload(){
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 	ship = new spaceship();
-	ufo = new ufo();
+	buttons.push(new button(width - 150,height - 200,100,100));
+	buttons.push(new button(width - 200,height - 100,100,100));
+	buttons.push(new button(width - 100,height - 100,100,100));
+	buttons.push(new button(150,height - 100,100,100));
+
+
 	textFont(fontVector);
 	textAlign(CENTER,CENTER);
 	stroke(255);
@@ -69,11 +73,12 @@ function draw() {
 		for (i = bullets.length-1 ; i >= 0 ; i--){
 			bullets[i].show();
 		}
-		ufo.show();
-		if(ufo.state == dead)
-			if (random()>.99)
-				ufo.state = alive;
+		for (i = 0; i<4;i++)
+				buttons[i].show();
 		if (frameCount - last_beep>interval){
+			
+
+
 			if (playing)
 				sound_high.play();
 			else

@@ -23,8 +23,6 @@ function asteroid(position,size,velocity){
 			this.pos.set((width+this.pos.x)%width,(height+this.pos.y)%height);
 			if (this.distance(ship.getPos())<15*this.size) 
 				ship.kill();
-			if (this.distance(ufo.getPos())<15*this.size) 
-				ufo.kill();
 			for(index = 0; index < bullets.length; index++){
 				if (bullets[index].distance(this.pos)< 40){
 					var velbul = bullets[index].vel.copy();

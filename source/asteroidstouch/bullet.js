@@ -1,16 +1,7 @@
-function bullet(velocity,position,angle,type){
+function bullet(velocity,position,angle){
 	//constants
-
-	this.type = type;
-	if (this.type){
-		this.bullet_velocity = 5;
-		this.max_life = 50;
-		}
-	else{
-		this.bullet_velocity = 20;
-		this.max_life = 20;
-		}
-	
+	this.max_life = 50;
+	this.bullet_velocity = 20;
 	
 	this.life = 0;
 	this.pos = position;

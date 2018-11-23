@@ -6,7 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
-    "marked": "^0.3.12"
+    "marked": "^0.3.12",
+    "socket.io": "^2.0.4"
   },
   "scripts": {
     "start": "node index.js && forever start server.js",

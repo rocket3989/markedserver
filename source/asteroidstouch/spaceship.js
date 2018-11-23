@@ -74,25 +74,18 @@ function spaceship(){
 	}
 	this.update = function(){
 		this.engines = false;
-		for(index = 0; index < bullets.length; index++){
-			if (bullets[index].distance(this.pos)< 40 && !bullets[index].type){
-				var velbul = bullets[index].vel.copy();
-				bullets[index].kill();
-				this.kill(velbul);
-			}
-		}
 		if(this.state){
-			if (keyIsDown(UP_ARROW)){
+			if (buttons[0].hover()){
 					this.vel.add(p5.Vector.fromAngle(this.angle).setMag(this.max_acc));
 					this.engines = true;
-					}
+				}
 
 			if (keyIsDown(RIGHT_ARROW))
 					this.angle += this.angle_acc;
 			if (keyIsDown(LEFT_ARROW))
 					this.angle -= this.angle_acc;
 			if (keyIsDown(32)&&!this.space_press){
-				bullets.push(new bullet(this.vel.copy(),this.pos.copy().add(this.vel),this.angle,ship_bul));
+				bullets.push(new bullet(this.vel.copy(),this.pos.copy().add(this.vel),this.angle));
 				this.space_press = true;
 				sound_fire.play();
 			}
